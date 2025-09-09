@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/calculatrice_tests.dir/tests/test_calculator.cpp.o CMakeFiles/calculatrice_tests.dir/src/calculator.cpp.o CMakeFiles/calculatrice_tests.dir/src/commands.cpp.o CMakeFiles/calculatrice_tests.dir/src/history.cpp.o -o calculatrice_tests 
