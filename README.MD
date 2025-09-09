@@ -1,4 +1,4 @@
-# Calculatrice CLI Évolutive (Version enrichie)
+# Calculatrice CLI Évolutive
 
 Objectif : Apprendre le C++ progressivement (lecture entrée, parsing simple, séparation en fichiers, commandes).
 
